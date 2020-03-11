@@ -14,6 +14,6 @@ preview:
 learned/reinforced:
  - working with strings, regex
  - webpack and babel setup
- - wikijs
- - keyword-extractor
+ - [wikijs](https://github.com/dijs/wiki)
+ - [keyword-extractor](https://github.com/michaeldelorenzo/keyword-extractor)
  - prototyping
