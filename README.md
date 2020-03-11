@@ -6,7 +6,7 @@ In the future I might have to create or find a list of professional jargon (and 
 how to use:
 `npm start`
 `firefox ./dist/index.html` (replace firefox with your browser)
-Then paste whatever text in the textarea and wait.
+Then paste whatever text in the textarea, PRESS ENTER and wait.
 
 learned/reinforced:
  - working with strings, regex
